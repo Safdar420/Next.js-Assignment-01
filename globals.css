@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  background-color: lightcoral;
+}
+h1{
+  
+  background-color: rgb(116, 57, 84);
+  color: white;
+
+}
